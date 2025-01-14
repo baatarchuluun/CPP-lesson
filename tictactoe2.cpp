@@ -13,7 +13,7 @@ int main() {
 	};
 	char player = 'X';
 	int turn, x, y;
-	cout << "Welcome to XO game\n";
+	cout << "Welcome to XO togloom!\n";
 	for (turn = 0; turn < 9; turn++) {
 		// input x, y for player
 		while (true) {
